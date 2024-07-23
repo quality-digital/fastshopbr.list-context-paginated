@@ -1,8 +1,8 @@
 {
-  "list-context": {
+  "fastshop-list-context": {
     "component": "ListContextProvider"
   },
-  "list-context-renderer": {
+  "fastshop-list-context-renderer": {
     "component": "ListRenderer",
     "composition": "children"
   }
