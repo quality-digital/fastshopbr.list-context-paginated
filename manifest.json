@@ -1,9 +1,9 @@
 {
-  "vendor": "fastshopbr",
+  "vendor": "fastshopbrqa1",
   "name": "list-context-paginated",
-  "version": "0.0.1",
-  "title": "VTEX List Context",
-  "description": "Interfaces that enable the use of list-contexts in VTEX IO Store Framework",
+  "version": "0.0.2",
+  "title": "Fastshop List Context Paginated",
+  "description": "Interfaces that enable the use of list-contexts Paginated in VTEX IO Store Framework",
   "builders": {
     "store": "0.x",
     "react": "3.x",
